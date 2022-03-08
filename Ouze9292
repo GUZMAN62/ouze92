@@ -1,0 +1,10 @@
+Pkg update
+Pkg upgrade
+Pkg install python2
+Pkg install git clone
+Pip2 install requests
+Pip2 install mechanize
+Pip install bs4
+git clone https://github.com/ouze92/ouze92
+cd ouze92
+
