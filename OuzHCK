@@ -177,7 +177,7 @@ def clone_loginvia():
         sav.write(token)
         sav.close()
         abm("\r\033[1;92m[✓] Login Successfull\033[0;97m")
-	os.system('xdg-open https://m.facebook.com/Techabm')
+	os.system('xdg-open https://m.facebook.com/ouzeifguzman92')
         time.sleep(1)
         menu()
     elif hack =="2":
